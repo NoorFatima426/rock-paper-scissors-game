@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #212221;
+    color: #fff;
+}
+.header{
+    text-align: center;
+    margin: 5px;
+    font-family: sans-serif;
+}
+.center-text{
+   text-align: center;
+
+    
+}
+.input-box{
+    width:300px;
+    padding: 3px;
+    word-break: break-word;
+}
+#point{
+    color:#E0A800;
+}
+#score
+{
+    color:#C82333;
+    font-size: 30px;
+    text-shadow:1px 1px #E0A800;
+}
+.butn{
+    gap:5px;
+}
